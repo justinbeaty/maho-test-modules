@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Basic_Mod>
+            <version>1.0.0</version>
+        </Basic_Mod>
+    </modules>
+    <global>
+        <models>
+            <basic_mod>
+                <class>Basic_Mod_Model</class>
+            </basic_mod>
+        </models>
+    </global>
+</config>
