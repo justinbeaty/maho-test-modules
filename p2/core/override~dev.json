@@ -1,0 +1,21 @@
+{
+    "packages": {
+        "core/override": [
+            {
+                "name": "core/override",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/core/override/core-override-6ede229659b9db6859429665a42fa238d81f72f5-path.tar",
+                    "shasum": "b5921790bb1bc40ef1e11be2b4496ee3275aed3b"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "packages": {
+        "basic/mod": [
+            {
+                "name": "basic/mod",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/basic/mod/basic-mod-e00fbf8816ea0e935400c30b776413aac4b320ea-path.tar",
+                    "shasum": "72f364ede7ddef2d79279e4279201168a7f89ac0"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        ]
+    }
+}

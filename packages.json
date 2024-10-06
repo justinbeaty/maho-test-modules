@@ -1,0 +1,20 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$4d383fb3f5c134709283d15d6684efda600d1f66.json": {
+            "sha1": "4d383fb3f5c134709283d15d6684efda600d1f66"
+        }
+    },
+    "metadata-url": "/justinbeaty/maho-test-modules/refs/heads/main/p2/%package%.json",
+    "available-packages": [
+        "aw/core",
+        "basic/mod",
+        "config/a",
+        "config/b",
+        "core/override",
+        "myzend/override",
+        "test/page",
+        "xyz/templates",
+        "xyz/theme"
+    ]
+}

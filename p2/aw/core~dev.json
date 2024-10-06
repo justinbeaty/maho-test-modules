@@ -1,0 +1,21 @@
+{
+    "packages": {
+        "aw/core": [
+            {
+                "name": "aw/core",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/aw/core/aw-core-9b23f3537328742dd8e8ca088d0ff55618c71e67-path.tar",
+                    "shasum": "5ce8fc76b8e1e6f7707e651926d29c3c7e5c868c"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        ]
+    }
+}

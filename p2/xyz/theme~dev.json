@@ -1,0 +1,21 @@
+{
+    "packages": {
+        "xyz/theme": [
+            {
+                "name": "xyz/theme",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/xyz/theme/xyz-theme-29c33d7639ba729a935a2aa3197755a5e5aef752-path.tar",
+                    "shasum": "968866ac8c5292cb4bc655b15c18046588b22639"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "myzend/override": [
+            {
+                "name": "myzend/override",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/myzend/override/myzend-override-0e3303791e6231bfb1bde2b9b16bc6b71e40ff5d-path.tar",
+                    "shasum": "589c93656c6735aea5a8d95a4a890bd5f52fb951"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "psr-0": {
+                        "Zend_": "lib/"
+                    }
+                },
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        ]
+    }
+}
