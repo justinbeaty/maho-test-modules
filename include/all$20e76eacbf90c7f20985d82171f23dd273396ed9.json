@@ -1,102 +1,96 @@
 {
     "packages": {
         "aw/core": {
-            "dev-master": {
+            "dev-main": {
                 "name": "aw/core",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/aw/core/aw-core-9b23f3537328742dd8e8ca088d0ff55618c71e67-path.tar",
                     "shasum": "5ce8fc76b8e1e6f7707e651926d29c3c7e5c868c"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
             }
         },
         "basic/mod": {
-            "dev-master": {
+            "dev-main": {
                 "name": "basic/mod",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/basic/mod/basic-mod-e00fbf8816ea0e935400c30b776413aac4b320ea-path.tar",
                     "shasum": "72f364ede7ddef2d79279e4279201168a7f89ac0"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
             }
         },
         "config/a": {
-            "dev-master": {
+            "dev-main": {
                 "name": "config/a",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/config/a/config-a-a6e6357dd85fc60fe53e982f8010b533474d5b15-path.tar",
                     "shasum": "72d259efd5b0974ea50d3088578cb705b2eb007f"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
             }
         },
         "config/b": {
-            "dev-master": {
+            "dev-main": {
                 "name": "config/b",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/config/b/config-b-4aa7ff663d79f422a4b61552771b1eed6269f901-path.tar",
                     "shasum": "eab90a8400bfbfa5b43e7c5b49f6643d2349d777"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
             }
         },
         "core/override": {
-            "dev-master": {
+            "dev-main": {
                 "name": "core/override",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/core/override/core-override-6ede229659b9db6859429665a42fa238d81f72f5-path.tar",
                     "shasum": "b5921790bb1bc40ef1e11be2b4496ee3275aed3b"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
             }
         },
         "myzend/override": {
-            "dev-master": {
+            "dev-main": {
                 "name": "myzend/override",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/myzend/override/myzend-override-0e3303791e6231bfb1bde2b9b16bc6b71e40ff5d-path.tar",
                     "shasum": "589c93656c6735aea5a8d95a4a890bd5f52fb951"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Zend_": "lib/"
@@ -108,48 +102,62 @@
             }
         },
         "test/page": {
-            "dev-master": {
+            "dev-main": {
                 "name": "test/page",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/test/page/test-page-0bbdda648d39b7e7ca30ed4c268840cdbdef85f8-path.tar",
                     "shasum": "0eb9368968029afc1a3c447ca13cb1d458ccf4e5"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
             }
         },
         "xyz/templates": {
-            "dev-master": {
+            "dev-main": {
                 "name": "xyz/templates",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/xyz/templates/xyz-templates-d863aca6973c761647037fe77bbf032e173051c7-path.tar",
                     "shasum": "f9de8a36715f400fa1c6f955bc81044c71eeffab"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
             }
         },
         "xyz/theme": {
-            "dev-master": {
+            "dev-main": {
                 "name": "xyz/theme",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/xyz/theme/xyz-theme-29c33d7639ba729a935a2aa3197755a5e5aef752-path.tar",
                     "shasum": "968866ac8c5292cb4bc655b15c18046588b22639"
+                },
+                "type": "magento-module",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "zend/override": {
+            "dev-main": {
+                "name": "zend/override",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/zend/override/zend-override-95ddc38acd3d32f0f5bd362b56c1510b397759b5-path.tar",
+                    "shasum": "f29b20a756bc95640c458d61913076cf2db58551"
                 },
                 "type": "magento-module",
                 "installation-source": "dist",

@@ -3,15 +3,14 @@
         "config/b": [
             {
                 "name": "config/b",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/config/b/config-b-4aa7ff663d79f422a4b61552771b1eed6269f901-path.tar",
                     "shasum": "eab90a8400bfbfa5b43e7c5b49f6643d2349d777"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }

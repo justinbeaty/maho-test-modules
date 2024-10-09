@@ -3,15 +3,14 @@
         "test/page": [
             {
                 "name": "test/page",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "dist": {
                     "type": "tar",
                     "url": "https://raw.githubusercontent.com/justinbeaty/maho-test-modules/refs/heads/main/dist/test/page/test-page-0bbdda648d39b7e7ca30ed4c268840cdbdef85f8-path.tar",
                     "shasum": "0eb9368968029afc1a3c447ca13cb1d458ccf4e5"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
