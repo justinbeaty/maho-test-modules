@@ -11,7 +11,6 @@
                     "shasum": "7063214adeddfe8544248209d3c16ff93f455077"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
@@ -28,7 +27,6 @@
                     "shasum": "b406911278aeafeabf82a032b066e4e0eb670431"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
@@ -45,7 +43,6 @@
                     "shasum": "efc25876320a58f2af5dd466370c5ce77e848704"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
@@ -62,7 +59,6 @@
                     "shasum": "9f5d95d58a65cac4467b479c5f2f667f6d8cd3d4"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
@@ -79,24 +75,22 @@
                     "shasum": "5964984c36cc5f16e9ccd4e7064ae3c4225435f7"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
             }
         },
         "modman/complex": {
-            "1.0.0": {
+            "1.0.1": {
                 "name": "modman/complex",
-                "version": "1.0.0",
-                "version_normalized": "1.0.0.0",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
                 "dist": {
                     "type": "tar",
-                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/modman/complex/modman-complex-9f8ad1a1c04c00aeebe333514f222e445538d702-path.tar",
-                    "shasum": "a6bd741183cf81dcaabf94dc77d0d58222ed3a2e"
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/modman/complex/modman-complex-be1692ec1b34ca8b07cf9b7c6b2e6c0aad457450-path.tar",
+                    "shasum": "1ffa2f7971762aceab7d4c335cefa86e8d0a6b0f"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
@@ -129,7 +123,6 @@
                         ]
                     ]
                 },
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
@@ -146,7 +139,6 @@
                     "shasum": "ec225a175215f01837a23453740e25d491518187"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
@@ -163,21 +155,20 @@
                     "shasum": "58bd9e65e659b555fbfda24ede792aa6971c5ccb"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
             }
         },
         "modman/testpage": {
-            "1.0.0": {
+            "1.0.1": {
                 "name": "modman/testpage",
-                "version": "1.0.0",
-                "version_normalized": "1.0.0.0",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
                 "dist": {
                     "type": "tar",
-                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/modman/testpage/modman-testpage-8343f5ab8d96671e368be68983f971c85e38711d-path.tar",
-                    "shasum": "596876c42d3fb7ef512756a36accce399df162b4"
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/modman/testpage/modman-testpage-f15589f19479a0ce2695b61f69f1ba6d88314a16-path.tar",
+                    "shasum": "0adaa6d20a8558828335c74e515fe774d1e10354"
                 },
                 "type": "magento-module",
                 "installation-source": "dist",
@@ -197,7 +188,6 @@
                     "shasum": "6fbb3c9cb55755aa03cf36b9ad395ac66ecb0f02"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Zend_": "lib/"
@@ -219,7 +209,6 @@
                     "shasum": "39764ce46a93768e90df88867d124de4ed557f27"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
@@ -236,7 +225,6 @@
                     "shasum": "fbdc7d6dc4665e1645a21eeabc28eac33ac0437b"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
@@ -253,7 +241,6 @@
                     "shasum": "a2ed6fd59a13f1afbbd78adf1b1d58145d85d2b5"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }
@@ -270,7 +257,6 @@
                     "shasum": "bc363cd663f942aef63405d84dade82b62ecc802"
                 },
                 "type": "magento-module",
-                "installation-source": "dist",
                 "transport-options": {
                     "relative": true
                 }

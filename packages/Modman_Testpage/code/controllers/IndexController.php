@@ -45,7 +45,7 @@ class Modman_Testpage_IndexController extends Mage_Core_Controller_Front_Action
         }
 
         try {
-            $files = ['README.md', 'js/foo.js', 'js/bar.js', 'lib/foo.php', 'lib/bar.php'];
+            $files = ['README.md', 'public/js/foo.js', 'public/js/bar.js', 'lib/foo.php', 'lib/bar.php'];
             foreach ($files as $file) {
                 if (!file_exists(BP . '/vendor/mahocommerce/maho-modman-symlinks/modman/composermap/' . $file)) {
                     throw new Exception;
