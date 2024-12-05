@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Modman_Simple>
+            <version>1.0.0</version>
+        </Modman_Simple>
+    </modules>
+    <global>
+        <blocks>
+            <modman_simple>
+                <class>Modman_Simple_Block</class>
+            </modman_simple>
+        </blocks>
+    </global>
+</config>

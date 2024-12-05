@@ -1,0 +1,280 @@
+{
+    "packages": {
+        "aw/core": {
+            "1.0.0": {
+                "name": "aw/core",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/aw/core/aw-core-de8a26371fa59af08c7b2e01541504affb7e0fa7-path.tar",
+                    "shasum": "7063214adeddfe8544248209d3c16ff93f455077"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "basic/mod": {
+            "1.0.0": {
+                "name": "basic/mod",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/basic/mod/basic-mod-1ac45fa61eb65f102796541ebdba7ae482ca0df1-path.tar",
+                    "shasum": "b406911278aeafeabf82a032b066e4e0eb670431"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "config/a": {
+            "1.0.0": {
+                "name": "config/a",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/config/a/config-a-366e2ca5a9b75d45c3060fbb690d2f83e5d31980-path.tar",
+                    "shasum": "efc25876320a58f2af5dd466370c5ce77e848704"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "config/b": {
+            "1.0.0": {
+                "name": "config/b",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/config/b/config-b-6d7e8e74f8fb5317274ae839c07a876d3659620d-path.tar",
+                    "shasum": "9f5d95d58a65cac4467b479c5f2f667f6d8cd3d4"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "core/override": {
+            "1.0.0": {
+                "name": "core/override",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/core/override/core-override-e5c10cd00b34da72b3aeeb4dc685361061d167b3-path.tar",
+                    "shasum": "5964984c36cc5f16e9ccd4e7064ae3c4225435f7"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "modman/complex": {
+            "1.0.0": {
+                "name": "modman/complex",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/modman/complex/modman-complex-9f8ad1a1c04c00aeebe333514f222e445538d702-path.tar",
+                    "shasum": "a6bd741183cf81dcaabf94dc77d0d58222ed3a2e"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "modman/composermap": {
+            "1.0.0": {
+                "name": "modman/composermap",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/modman/composermap/modman-composermap-871a17d5810a43726e5152b4241570b19dded607-path.tar",
+                    "shasum": "6c4911829f0113443e17afd2dbfb060cb8462476"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "README.md",
+                            "README.md"
+                        ],
+                        [
+                            "js/*/*.js",
+                            "public/js"
+                        ],
+                        [
+                            "lib/*",
+                            "lib"
+                        ]
+                    ]
+                },
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "modman/nolink": {
+            "1.0.0": {
+                "name": "modman/nolink",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/modman/nolink/modman-nolink-0ea1c6bb3dd3bd481fa0be48367927b050b840a3-path.tar",
+                    "shasum": "ec225a175215f01837a23453740e25d491518187"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "modman/simple": {
+            "1.0.0": {
+                "name": "modman/simple",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/modman/simple/modman-simple-d113b7a5fb8f4c31e3c059ee45f27a4cc0ae1989-path.tar",
+                    "shasum": "58bd9e65e659b555fbfda24ede792aa6971c5ccb"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "modman/testpage": {
+            "1.0.0": {
+                "name": "modman/testpage",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/modman/testpage/modman-testpage-8343f5ab8d96671e368be68983f971c85e38711d-path.tar",
+                    "shasum": "596876c42d3fb7ef512756a36accce399df162b4"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "myzend/override": {
+            "1.0.0": {
+                "name": "myzend/override",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/myzend/override/myzend-override-db00a89c44e792f032553aa40bbb304ca9491277-path.tar",
+                    "shasum": "6fbb3c9cb55755aa03cf36b9ad395ac66ecb0f02"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "autoload": {
+                    "psr-0": {
+                        "Zend_": "lib/"
+                    }
+                },
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "test/page": {
+            "1.0.0": {
+                "name": "test/page",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/test/page/test-page-a11a77f51b371a5230ef1d1924acd2aa7d104a8d-path.tar",
+                    "shasum": "39764ce46a93768e90df88867d124de4ed557f27"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "xyz/templates": {
+            "1.0.0": {
+                "name": "xyz/templates",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/xyz/templates/xyz-templates-000af323c16e47251806088d9179f8d0638e8881-path.tar",
+                    "shasum": "fbdc7d6dc4665e1645a21eeabc28eac33ac0437b"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "xyz/theme": {
+            "1.0.0": {
+                "name": "xyz/theme",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/xyz/theme/xyz-theme-2dd0efbac53de0705a06bd4a2a950b3148b7466b-path.tar",
+                    "shasum": "a2ed6fd59a13f1afbbd78adf1b1d58145d85d2b5"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        },
+        "zend/override": {
+            "1.0.0": {
+                "name": "zend/override",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://justinbeaty.github.io/maho-test-modules//dist/zend/override/zend-override-96612308fe5481c317a2b108ef86f2a1ca2784fa-path.tar",
+                    "shasum": "bc363cd663f942aef63405d84dade82b62ecc802"
+                },
+                "type": "magento-module",
+                "installation-source": "dist",
+                "transport-options": {
+                    "relative": true
+                }
+            }
+        }
+    }
+}

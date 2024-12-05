@@ -1,0 +1,6 @@
+conflict/Test.php app/code/local/Modman/ComplexA/Model/Test.php
+@import modules/mod_a
+@import modules/mod_b
+@shell \
+echo 'This script is ignored'
+@import locale app

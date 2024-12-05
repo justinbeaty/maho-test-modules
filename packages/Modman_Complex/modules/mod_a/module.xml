@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Modman_ComplexA>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Modman_ComplexA>
+    </modules>
+</config>

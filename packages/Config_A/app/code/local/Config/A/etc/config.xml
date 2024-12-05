@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Config_A>
+            <version>1.0.0</version>
+        </Config_A>
+    </modules>
+    <default>
+        <some>
+            <config>Value from Config_A</config>
+        </some>
+    </default>
+</config>

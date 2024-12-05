@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Modman_Testpage>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Modman_Testpage>
+    </modules>
+</config>

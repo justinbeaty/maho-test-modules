@@ -1,0 +1,17 @@
+{
+    "name": "justinbeaty/maho-test-modules",
+    "description": "Test modules for maho commerce",
+    "homepage": "https://justinbeaty.github.io/maho-test-modules/",
+    "version": "1.0.0",
+    "require-dev": {
+        "composer/satis": "^1.0"
+    },
+    "scripts": {
+        "clean": "find packages \\( -name '*~' -o -name '\\#*' -o -name '.\\#*' \\) -exec rm {} \\;",
+        "build": ["@clean", "satis build satis.json docs"]
+    },
+    "scripts-descriptions": {
+        "clean": "Clean up emacs files so they are not included in tarballs",
+        "build": "Build the Satis frontend"
+    }
+}

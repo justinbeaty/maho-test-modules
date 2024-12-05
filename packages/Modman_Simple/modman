@@ -1,0 +1,3 @@
+code/           app/code/local/Modman/Simple
+templates/      app/design/frontend/base/default/template/modman/simple
+module.xml      app/etc/modules/Modman_Simple.xml

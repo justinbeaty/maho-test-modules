@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Modman_ComplexB>
+            <version>1.0.0</version>
+        </Modman_ComplexB>
+    </modules>
+    <global>
+        <models>
+            <modman_complex_b>
+                <class>Modman_ComplexB_Model</class>
+            </modman_complex_b>
+        </models>
+        <helpers>
+            <modman_complex_b>
+                <class>Modman_ComplexB_Helper</class>
+            </modman_complex_b>
+        </helpers>
+    </global>
+    <frontend>
+        <translate>
+            <modules>
+                <Modman_ComplexB>
+                    <files>
+                        <default>Modman_ComplexB.csv</default>
+                    </files>
+                </Modman_ComplexB>
+            </modules>
+        </translate>
+    </frontend>
+</config>

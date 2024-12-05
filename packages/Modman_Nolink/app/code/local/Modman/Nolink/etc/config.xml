@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Modman_Nolink>
+            <version>1.0.0</version>
+        </Modman_Nolink>
+    </modules>
+    <global>
+        <models>
+            <modman_nolink>
+                <class>Modman_Nolink_Model</class>
+            </modman_nolink>
+        </models>
+    </global>
+</config>

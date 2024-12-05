@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Modman_Testpage>
+            <version>1.0.0</version>
+        </Modman_Testpage>
+    </modules>
+    <frontend>
+        <routers>
+            <modman_testpage>
+                <use>standard</use>
+                <args>
+                    <module>Modman_Testpage</module>
+                    <frontName>modman</frontName>
+                </args>
+            </modman_testpage>
+        </routers>
+    </frontend>
+</config>

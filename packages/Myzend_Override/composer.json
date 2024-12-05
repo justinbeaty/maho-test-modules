@@ -1,0 +1,10 @@
+{
+    "name": "myzend/override",
+    "type": "magento-module",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-0": {
+            "Zend_": "lib/"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <AW_Core>
+            <version>1.0.0</version>
+        </AW_Core>
+    </modules>
+    <global>
+        <models>
+            <awcore>
+                <class>AW_Core_Model</class>
+            </awcore>
+        </models>
+    </global>
+</config>

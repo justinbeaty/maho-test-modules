@@ -1,0 +1,26 @@
+{
+    "name": "justinbeaty/maho-test-modules",
+    "homepage": "https://justinbeaty.github.io/maho-test-modules/",
+    "repositories": [
+        { "type": "path", "url": "packages/AW_Core" },
+        { "type": "path", "url": "packages/Basic_Mod" },
+        { "type": "path", "url": "packages/Config_A" },
+        { "type": "path", "url": "packages/Config_B" },
+        { "type": "path", "url": "packages/Core_Override" },
+        { "type": "path", "url": "packages/Myzend_Override" },
+        { "type": "path", "url": "packages/Test_Page" },
+        { "type": "path", "url": "packages/Xyz_Templates" },
+        { "type": "path", "url": "packages/Xyz_Theme" },
+        { "type": "path", "url": "packages/Zend_Override" },
+        { "type": "path", "url": "packages/Modman_Testpage" },
+        { "type": "path", "url": "packages/Modman_Simple" },
+        { "type": "path", "url": "packages/Modman_Complex" },
+        { "type": "path", "url": "packages/Modman_Nolink" },
+        { "type": "path", "url": "packages/Modman_ComposerMap" }
+    ],
+    "require-all": true,
+    "archive": {
+        "directory": "dist",
+        "format": "tar"
+    }
+}
